@@ -1,10 +1,6 @@
 let plane; 
 let s, p, v, a, m;
 
-function myFx(x){
-    return Math.sin(x);
-}
-
 function init(){
     plane = new OXY(height, width, 40);
     p = new Vector(1,5);
@@ -15,7 +11,7 @@ function init(){
 }
 
 function setup(){
-    createCanvas(600,600);
+    createCanvas(1000,800);
     frameRate(60);
     init();
 }

@@ -17,6 +17,8 @@ function setup(){
 function draw(){
     background(10);
     plane.drawPlane();
-    plane.plot(Math.sin, 'orange');
-    plane.derivePlot(Math.sin, 'blue');
+    plane.plot(Math.sin, 'red');
+    plane.derivePlot(Math.sin, 'orange');
+    plane.plot(sigmoid, 'cyan');
+    plane.derivePlot(sigmoid, 'blue');
 }
