@@ -2,12 +2,14 @@
 
 ## How to use
 
-## include the library cartesian.js to your index.html after p5.js
+include the library cartesian.js to your index.html after p5.js
 
-## Particle orbit simulator 
+## Examples
 
-### <https://www.instagram.com/p/CTvxm4Thzzy/>
+### Particle orbit simulator
 
-## Projectile motion simulatior animation
+<https://www.instagram.com/p/CTvxm4Thzzy/>
 
-### <https://www.instagram.com/p/CTvw9uoB6lV/>
+### Projectile motion simulatior animation
+
+<https://www.instagram.com/p/CTvw9uoB6lV/>
