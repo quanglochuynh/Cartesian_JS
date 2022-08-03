@@ -17,4 +17,5 @@ Include the library file "cartesian.js" to your index.html after p5.js
 ## Future works
 
 Complex function plotting.
+
 More interactive plotting plane.
