@@ -2,7 +2,7 @@
 
 ## How to use
 
-include the library cartesian.js to your index.html after p5.js
+Include the library file "cartesian.js" to your index.html after p5.js
 
 ## Examples
 
@@ -13,3 +13,8 @@ include the library cartesian.js to your index.html after p5.js
 ### Projectile motion simulatior animation
 
 <https://www.instagram.com/p/CTvw9uoB6lV/>
+
+## Future works
+
+Complex function plotting.
+More interactive plotting plane.
